@@ -1,0 +1,30 @@
+1.Create a folder on the desktop : marketing
+2. drag and drop in the VS Code
+---installation f bootstrap 4----
+3. go to
+https://getbootstrap.com/docs/4.6/getting-started/download/
+
+4. dowload , unzip, and move css and js folders right under the project
+
+
+---containers---
+https://getbootstrap.com/docs/4.6/layout/overview/#containers
+
+container : gives some space around the element
+ <div class="container bg-primary">
+                CONTAINER FIELD
+</div>
+---------------
+cotainer-fluid : does not give any space around the element
+gives full width
+<div class="container-fluid bg-success">
+    CONTAINER FLUID FIELD
+</div>
+
+
+--background color with bootstrap---
+https://getbootstrap.com/docs/4.6/utilities/colors/#background-color
+
+
+*navbar-light -> for getting dark text
+*navbar-dark -> for getting light text
